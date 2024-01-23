@@ -1,0 +1,1 @@
+On my first week of mastering js, i built a passenger counter app
